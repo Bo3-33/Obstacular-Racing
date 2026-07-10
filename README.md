@@ -1,5 +1,17 @@
- Obstacular Racing
+Obstacular Racing
 
-A little racing game I made in unreal engine 5.7 using the default time trial preset.
+Obstacular Racing is a racing game built with Unreal Engine. The goal of the game is to drive through obstacle-filled tracks and reach the finish as quickly as possible. The game focuses on fast movement, simple controls, and challenging course design.
 
-It is available for windows.
+Download
+
+You can download the latest playable build here:
+
+https://github.com/Bo3-33/Obstacular-Racing/releases/download/bingbong/Windows.zip
+
+GitHub Releases are used to distribute the game because they support large files (up to 2 GB per file), which makes them suitable for packaged builds.
+
+How to Play
+Download the zip file from the link above
+Extract the contents
+Open the folder
+Run the .exe file to start the game
