@@ -1,7 +1,6 @@
 Obstacular Racing
 
-Obstacular Racing is a racing game built with Unreal Engine. The goal of the game is to drive through obstacle-filled tracks and reach the finish as quickly as possible. The game focuses on fast movement, simple controls, and challenging course design.
-
+Obstacular Racing is a racing game built with Unreal Engine. 
 Download
 
 You can download the latest playable build here:
